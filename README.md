@@ -395,14 +395,21 @@ The above tables coule be better summarized by this wonderful visualization from
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - an experimental open-source application showcasing the capabilities of the GPT-4 language model. 
 - [OpenAGI](https://github.com/agiresearch/OpenAGI) - When LLM Meets Domain Experts.
 - [HuggingGPT](https://github.com/microsoft/JARVIS) - Solving AI Tasks with ChatGPT and its Friends in HuggingFace.
-## Contributing
 
-This is an active repository and your contributions are always welcome!
 
-I will keep some pull requests open if I'm not sure if they are awesome for LLM, you could vote for them by adding 👍 to them.
+## About me
 
----
+**Piyush Pathak**
 
-If you have any question about this opinionated list, do not hesitate to contact me chengxin1998@stu.pku.edu.cn.
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
 
-[^1]: This is not legal advice. Please contact the original authors of the models for more information.
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
